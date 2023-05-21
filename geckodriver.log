@@ -1,0 +1,898 @@
+1684657968558	geckodriver	INFO	Listening on 127.0.0.1:60925
+1684657968942	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "43319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuo6S1G"
+*** You are running in headless mode.
+Gtk-Message: 14:02:48.976: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684657969342	Marionette	INFO	Marionette enabled
+1684657969346	Marionette	INFO	Listening on port 37485
+WebDriver BiDi listening on ws://127.0.0.1:43319
+Read port: 37485
+1684657969605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:43319/devtools/browser/a2d002cd-da2e-46fa-876a-b0ee7600cada
+JavaScript warning: https://www.amazon.in/RRHR-SALES-Protection-Washable-Reusable/dp/B0B3NB1B12/ref=sr_1_27?crid=26WXI6RF39WRQ&keywords=hand+gloves+black+full&qid=1684657801&sprefix=hand+gloves+black+full%2Caps%2C222&sr=8-27 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684658177698	Marionette	INFO	Stopped listening on port 37485
+[Child 43302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 43302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 43302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 43302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 43302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 43302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 43302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 43302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684658241243	geckodriver	INFO	Listening on 127.0.0.1:34585
+1684658241628	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "52897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileerMTae"
+*** You are running in headless mode.
+Gtk-Message: 14:07:21.661: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684658242062	Marionette	INFO	Marionette enabled
+1684658242066	Marionette	INFO	Listening on port 39461
+Read port: 39461
+WebDriver BiDi listening on ws://127.0.0.1:52897
+1684658242218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:52897/devtools/browser/3f040c92-159e-4763-91dd-ae046492c258
+JavaScript warning: https://www.amazon.in/RRHR-SALES-Protection-Washable-Reusable/dp/B0B3NB1B12/ref=sr_1_27?crid=26WXI6RF39WRQ&keywords=hand+gloves+black+full&qid=1684657801&sprefix=hand+gloves+black+full%2Caps%2C222&sr=8-27 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684658452754	Marionette	INFO	Stopped listening on port 39461
+[Child 44114, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 44114, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 44114, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 44114, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 44114, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 44114, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 44114, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 44114, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684658453446	geckodriver	INFO	Listening on 127.0.0.1:40185
+1684658453859	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "41593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqQSRRg"
+*** You are running in headless mode.
+Gtk-Message: 14:10:53.900: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684658454296	Marionette	INFO	Marionette enabled
+1684658454300	Marionette	INFO	Listening on port 40983
+Read port: 40983
+WebDriver BiDi listening on ws://127.0.0.1:41593
+1684658454430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41593/devtools/browser/49ea4bc4-3264-4e44-a62c-47b272235407
+JavaScript warning: https://www.amazon.in/Arm-Combo-Protection-protection-Finger-Black/dp/B0925WFGT9/ref=sr_1_55?keywords=hand+gloves+black+full&qid=1684658188&refinements=p_72%3A1318479031&rnid=1318475031&sr=8-55 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1684658692977	geckodriver	INFO	Listening on 127.0.0.1:45509
+1684658693374	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekwd7eX"
+Gtk-Message: 14:14:53.417: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684658694399	Marionette	INFO	Marionette enabled
+1684658694403	Marionette	INFO	Listening on port 36851
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 36851
+WebDriver BiDi listening on ws://127.0.0.1:56189
+1684658694549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56189/devtools/browser/e175bf79-827b-4171-bfa3-c7cbb521f909
+1684658701624	Marionette	INFO	Stopped listening on port 36851
+[Child 45957, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 45957, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 45957, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 45957, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 45957, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 45957, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 45957, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 45957, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript warning: https://www.amazon.in/Arm-Combo-Protection-protection-Finger-Black/dp/B0925WFGT9/ref=sr_1_55?keywords=hand+gloves+black+full&qid=1684658188&refinements=p_72%3A1318479031&rnid=1318475031&sr=8-55 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684658824679	geckodriver	INFO	Listening on 127.0.0.1:59869
+1684658825033	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4SNr6w"
+Gtk-Message: 14:17:05.066: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684658825955	Marionette	INFO	Marionette enabled
+1684658825959	Marionette	INFO	Listening on port 42015
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42015
+WebDriver BiDi listening on ws://127.0.0.1:56789
+1684658826107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56789/devtools/browser/6ab869a9-b4a1-4be0-a2e8-50f6313c5041
+1684658831517	Marionette	INFO	Stopped listening on port 42015
+JavaScript warning: https://www.amazon.in/Arm-Sleeves-protection-washable-reusable/dp/B0BTMHRDG9/ref=sr_1_56?keywords=hand+gloves+black+full&qid=1684658188&refinements=p_72%3A1318479031&rnid=1318475031&sr=8-56 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 46540, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 46540, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 46540, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 46540, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 46540, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 46540, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 46540, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 46540, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684658923386	geckodriver	INFO	Listening on 127.0.0.1:50301
+1684658923792	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "34659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXsEx3r"
+*** You are running in headless mode.
+Gtk-Message: 14:18:43.825: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684658924214	Marionette	INFO	Marionette enabled
+1684658924218	Marionette	INFO	Listening on port 42585
+Read port: 42585
+WebDriver BiDi listening on ws://127.0.0.1:34659
+1684658924369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34659/devtools/browser/e1a8b193-f70a-4467-9948-5d3d8ccebf8b
+JavaScript warning: https://www.amazon.in/Arm-Sleeves-protection-washable-reusable/dp/B0BTMHRDG9/ref=sr_1_56?keywords=hand+gloves+black+full&qid=1684658188&refinements=p_72%3A1318479031&rnid=1318475031&sr=8-56 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684659033260	Marionette	INFO	Stopped listening on port 42585
+[Child 47253, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 47253, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 47253, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 47253, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 47253, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 47253, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 47253, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 47253, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684659034112	geckodriver	INFO	Listening on 127.0.0.1:33727
+1684659034510	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "36027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqehFHj"
+*** You are running in headless mode.
+Gtk-Message: 14:20:34.542: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684659034919	Marionette	INFO	Marionette enabled
+1684659034924	Marionette	INFO	Listening on port 33931
+WebDriver BiDi listening on ws://127.0.0.1:36027
+Read port: 33931
+1684659035208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:36027/devtools/browser/055703ff-f668-4521-9801-cc5b6194a5b9
+JavaScript warning: https://www.amazon.in/Arm-Sleeves-protection-washable-reusable/dp/B0BTMHRDG9/ref=sr_1_56?keywords=hand+gloves+black+full&qid=1684658188&refinements=p_72%3A1318479031&rnid=1318475031&sr=8-56 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684659143657	Marionette	INFO	Stopped listening on port 33931
+[Child 48194, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 48194, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 48194, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 48194, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 48194, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 48194, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 48194, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 48194, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684659272771	geckodriver	INFO	Listening on 127.0.0.1:53539
+1684659273156	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "45603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUauhQf"
+*** You are running in headless mode.
+Gtk-Message: 14:24:33.202: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684659273666	Marionette	INFO	Marionette enabled
+1684659273672	Marionette	INFO	Listening on port 37127
+Read port: 37127
+WebDriver BiDi listening on ws://127.0.0.1:45603
+1684659273874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:45603/devtools/browser/6eb55601-715c-4ae3-a8db-3cb05b9aa74d
+JavaScript warning: https://www.amazon.in/Arm-Sleeves-protection-washable-reusable/dp/B0BTMHRDG9/ref=sr_1_56?keywords=hand+gloves+black+full&qid=1684658188&refinements=p_72%3A1318479031&rnid=1318475031&sr=8-56 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684659382394	Marionette	INFO	Stopped listening on port 37127
+[Child 49318, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 49318, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 49318, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 49318, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 49318, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 49318, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 49318, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 49318, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684659537555	geckodriver	INFO	Listening on 127.0.0.1:35041
+1684659537938	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile48pNcN"
+Gtk-Message: 14:28:57.998: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684659539129	Marionette	INFO	Marionette enabled
+1684659539134	Marionette	INFO	Listening on port 37889
+Read port: 37889
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:35093
+1684659539333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35093/devtools/browser/7759d0c8-2fad-4be9-803a-abcc4e956163
+JavaScript warning: https://www.amazon.in/Oneplus-Bluetooth-Wireless-Earphones-Bombastic/product-reviews/B09TVVGXWS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684659544147	Marionette	INFO	Stopped listening on port 37889
+[Child 50043, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50043, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50043, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50043, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50043, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50043, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50043, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50043, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684659585958	geckodriver	INFO	Listening on 127.0.0.1:46777
+1684659586297	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "47651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile71lGuc"
+Gtk-Message: 14:29:46.334: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684659587390	Marionette	INFO	Marionette enabled
+1684659587394	Marionette	INFO	Listening on port 36379
+Read port: 36379
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:47651
+1684659587565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:47651/devtools/browser/c9936980-398c-47c7-acf6-1c216d5aa86f
+JavaScript warning: https://www.amazon.in/Oneplus-Bluetooth-Wireless-Earphones-Bombastic/product-reviews/B09TVVGXWS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684659592454	Marionette	INFO	Stopped listening on port 36379
+[Child 50593, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50593, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50593, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50593, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50593, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50593, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50593, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 50593, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1684659904335	geckodriver	INFO	Listening on 127.0.0.1:34407
+1684659904731	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileL3RpEJ"
+Gtk-Message: 14:35:04.762: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684659905692	Marionette	INFO	Marionette enabled
+1684659905698	Marionette	INFO	Listening on port 39871
+Read port: 39871
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:45197
+1684659905864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:45197/devtools/browser/10ddcfe6-ff97-4ba5-9237-67456aae02eb
+JavaScript warning: https://www.amazon.in/Oneplus-Bluetooth-Wireless-Earphones-Bombastic/product-reviews/B09TVVGXWS/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684659909905	Marionette	INFO	Stopped listening on port 39871
+[Child 51450, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51450, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51450, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51450, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51450, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51450, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51450, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51450, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684659959641	geckodriver	INFO	Listening on 127.0.0.1:43005
+1684659960037	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekEtzNf"
+Gtk-Message: 14:36:00.069: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684659960992	Marionette	INFO	Marionette enabled
+1684659960996	Marionette	INFO	Listening on port 46175
+Read port: 46175
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:57855
+1684659961175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57855/devtools/browser/ad883fdc-3595-4e41-96b7-1f8d91f7c5f6
+1684659968334	Marionette	INFO	Stopped listening on port 46175
+[Child 51963, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51963, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51963, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51963, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript warning: https://www.amazon.in/Arm-Sleeves-protection-washable-reusable/dp/B0BTMHRDG9/ref=cm_cr_arp_d_product_top?ie=UTF8 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 51963, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51963, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51963, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 51963, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684660030691	geckodriver	INFO	Listening on 127.0.0.1:57219
+1684660031106	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTTlG6a"
+Gtk-Message: 14:37:11.166: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684660032184	Marionette	INFO	Marionette enabled
+1684660032188	Marionette	INFO	Listening on port 45433
+Read port: 45433
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:54511
+1684660032335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54511/devtools/browser/b789abf7-57c6-49bf-95a2-ae719eca0fd0
+JavaScript warning: https://www.amazon.in/Aquaqlean-Frosty-Plastic-Fridge-Assorted/dp/B0995VW65M/ref=sr_1_1?keywords=bottles&pd_rd_r=cfea456f-1f11-49a9-9a7b-c37f81c1d026&pd_rd_w=OSpKx&pd_rd_wg=NIJp6&pf_rd_p=96ca6a52-86ee-4a18-9d4b-af1a53db3d23&pf_rd_r=Z4C4N23C06PCK739PFA5&qid=1684660011&refinements=p_n_format_browse-bin%3A19560801031&s=kitchen&sr=1-1&th=1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684660041010	Marionette	INFO	Stopped listening on port 45433
+[Child 53569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 53569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 53569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 53569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 53569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 53569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 53569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 53569, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684660711470	geckodriver	INFO	Listening on 127.0.0.1:55811
+1684660711831	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE2JBA1"
+Gtk-Message: 14:48:31.866: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684660712788	Marionette	INFO	Marionette enabled
+1684660712792	Marionette	INFO	Listening on port 40649
+Read port: 40649
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:37703
+1684660712948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:37703/devtools/browser/25ccaa2e-9baf-44b3-858b-e90765a2dde4
+JavaScript warning: https://www.amazon.in/Nokia-Android-Smartphone-All-Day-Capacity/dp/B0BW5QRCPG/ref=sr_1_19?crid=26QCMWE9ESQBI&keywords=mobile+under+10000&qid=1684660684&sprefix=mobile+under+10000%2Caps%2C229&sr=8-19 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684660720223	Marionette	INFO	Stopped listening on port 40649
+[Child 55600, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 55600, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 55600, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 55600, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 55600, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 55600, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 55600, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 55600, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684660825852	geckodriver	INFO	Listening on 127.0.0.1:34693
+1684660826216	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4dA0Oq"
+Gtk-Message: 14:50:26.249: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684660827214	Marionette	INFO	Marionette enabled
+1684660827220	Marionette	INFO	Listening on port 46507
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 46507
+WebDriver BiDi listening on ws://127.0.0.1:45797
+1684660827392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:45797/devtools/browser/6f5e9a87-2ab2-4c62-b26c-9718e61cbc9e
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684660834118	Marionette	INFO	Stopped listening on port 46507
+[Child 56183, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56183, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56183, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56183, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56183, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56183, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56183, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56183, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684660992245	geckodriver	INFO	Listening on 127.0.0.1:33967
+1684660992629	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqLOX0z"
+Gtk-Message: 14:53:12.674: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684660993643	Marionette	INFO	Marionette enabled
+1684660993648	Marionette	INFO	Listening on port 38015
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38015
+WebDriver BiDi listening on ws://127.0.0.1:55595
+1684660993812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55595/devtools/browser/ffca6bbd-cacb-421e-a387-71903d914f29
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1684661039729	geckodriver	INFO	Listening on 127.0.0.1:44371
+1684661040104	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqI9r6c"
+Gtk-Message: 14:54:00.139: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684661041157	Marionette	INFO	Marionette enabled
+1684661041163	Marionette	INFO	Listening on port 39459
+Read port: 39459
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:45493
+1684661041323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:45493/devtools/browser/19ff875e-7ea3-4ac0-b251-134207624e3b
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684661048380	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+[Child 56900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 56900, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684661092951	Marionette	INFO	Stopped listening on port 38015
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+[Child 57486, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 57486, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 57486, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 57486, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 57486, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 57486, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 57486, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 57486, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684661101889	Marionette	INFO	Stopped listening on port 39459
+1684661425885	geckodriver	INFO	Listening on 127.0.0.1:37625
+1684661426259	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5ZYsvs"
+Gtk-Message: 15:00:26.291: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684661427219	Marionette	INFO	Marionette enabled
+1684661427223	Marionette	INFO	Listening on port 41521
+Read port: 41521
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:35597
+1684661427371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35597/devtools/browser/daaee76f-2cea-4311-81e4-42bba2855d90
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1684661530885	geckodriver	INFO	Listening on 127.0.0.1:34415
+1684661531277	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePISmd9"
+Gtk-Message: 15:02:11.316: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684661532274	Marionette	INFO	Marionette enabled
+1684661532279	Marionette	INFO	Listening on port 43195
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43195
+WebDriver BiDi listening on ws://127.0.0.1:41725
+1684661532463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:41725/devtools/browser/38852be4-1b5c-4284-b93b-cca2f9e60c07
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+[Child 58787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 58787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 58787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 58787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 58787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 58787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 58787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 58787, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684661613950	Marionette	INFO	Stopped listening on port 41521
+1684661698350	geckodriver	INFO	Listening on 127.0.0.1:43105
+1684661698720	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerFtq3Z"
+Gtk-Message: 15:04:58.752: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684661699729	Marionette	INFO	Marionette enabled
+1684661699733	Marionette	INFO	Listening on port 43993
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43993
+WebDriver BiDi listening on ws://127.0.0.1:36961
+1684661699897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:36961/devtools/browser/c3e6316c-d1f5-414e-be94-f32184a8fc6b
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/product-reviews/B0BY8MCQ9S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684661709539	Marionette	INFO	Stopped listening on port 43993
+[Child 60621, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 60621, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 60621, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 60621, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 60621, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 60621, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 60621, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 60621, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 60059, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (DevToolsFrame, DevToolsFrameChild:destroy) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+console.error: "Unable to find target with innerWindowId:6442450945"
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/product-reviews/B0BY8MCQ9S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+[Child 59869, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 59869, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 59869, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 59869, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 59869, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 59869, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 59869, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 59869, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684661751951	Marionette	INFO	Stopped listening on port 43195
+1684661806136	geckodriver	INFO	Listening on 127.0.0.1:35683
+1684661806519	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSdQKoU"
+Gtk-Message: 15:06:46.552: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684661807517	Marionette	INFO	Marionette enabled
+1684661807522	Marionette	INFO	Listening on port 32867
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 32867
+WebDriver BiDi listening on ws://127.0.0.1:53967
+1684661807703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53967/devtools/browser/2e8bd9dc-c82b-41a7-8da0-9dfd8fca3769
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/product-reviews/B0BY8MCQ9S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1684661817278	Marionette	INFO	Stopped listening on port 32867
+[Child 61485, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 61485, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 61485, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 61485, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 61485, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 61485, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 61485, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 61485, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684662262261	geckodriver	INFO	Listening on 127.0.0.1:50597
+1684662262645	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAC887J"
+Gtk-Message: 15:14:22.678: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684662263629	Marionette	INFO	Marionette enabled
+1684662263634	Marionette	INFO	Listening on port 46493
+Read port: 46493
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:37733
+1684662263786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:37733/devtools/browser/b86a26bd-2829-4ede-aeac-fffb5567a280
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/product-reviews/B0BY8MCQ9S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1684662330397	geckodriver	INFO	Listening on 127.0.0.1:38179
+1684662330787	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKBzr7a"
+Gtk-Message: 15:15:30.821: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684662331798	Marionette	INFO	Marionette enabled
+1684662331802	Marionette	INFO	Listening on port 42339
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42339
+WebDriver BiDi listening on ws://127.0.0.1:35995
+1684662331966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:35995/devtools/browser/92a293d9-c26d-476e-8267-046d05150361
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/product-reviews/B0BY8MCQ9S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1684662382173	geckodriver	INFO	Listening on 127.0.0.1:50487
+1684662382544	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXKYytk"
+Gtk-Message: 15:16:22.577: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684662383801	Marionette	INFO	Marionette enabled
+1684662383805	Marionette	INFO	Listening on port 44281
+Read port: 44281
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:44489
+1684662383956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:44489/devtools/browser/fbd0d4e4-c8cd-4337-8899-c0b876520962
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/product-reviews/B0BY8MCQ9S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684662431354	Marionette	INFO	Stopped listening on port 44281
+[Child 64550, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 64550, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 64550, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 64550, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 64550, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 64550, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 64550, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 64550, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1684662582103	geckodriver	INFO	Listening on 127.0.0.1:33819
+1684662582490	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "51133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelOwCh8"
+*** You are running in headless mode.
+Gtk-Message: 15:19:42.528: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684662582911	Marionette	INFO	Marionette enabled
+1684662582917	Marionette	INFO	Listening on port 41029
+Read port: 41029
+WebDriver BiDi listening on ws://127.0.0.1:51133
+1684662583066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:51133/devtools/browser/003e1dd5-5834-4ec1-bc7f-43be164e655e
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/dp/B0BY8MCQ9S/ref=sr_1_1?keywords=oneplus+mobiles&qid=1684660804&sprefix=one+pl%2Caps%2C328&sr=8-1 line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 
+JavaScript warning: https://www.amazon.in/OnePlus-Nord-Chromatic-128GB-Storage/product-reviews/B0BY8MCQ9S/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/51PMdkIY94L.js?AUIClients/VSEPlayer, line 25: TypeError: d is null
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684662630286	Marionette	INFO	Stopped listening on port 41029
+[Child 65302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 65302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 65302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 65302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 65302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 65302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 65302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 65302, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1684662679732	geckodriver	INFO	Listening on 127.0.0.1:44099
+1684662680109	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "54639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSEqtXz"
+*** You are running in headless mode.
+Gtk-Message: 15:21:20.141: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684662680520	Marionette	INFO	Marionette enabled
+1684662680524	Marionette	INFO	Listening on port 40265
+WebDriver BiDi listening on ws://127.0.0.1:54639
+Read port: 40265
+1684662680685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54639/devtools/browser/f3ba3de4-ce8f-4979-9ebc-c31c946f3d9d
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/dp/B07YX6SSPT/?_encoding=UTF8&pd_rd_w=dGLA6&content-id=amzn1.sym.04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_p=04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_r=AH9DBC9QQAVPJQ15ZC2W&pd_rd_wg=AfJYr&pd_rd_r=1ac5a20a-75c9-4c28-a022-067156b42fed&ref_=pd_gw_cr_wsim line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/product-reviews/B07YX6SSPT/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1684662741897	geckodriver	INFO	Listening on 127.0.0.1:56117
+1684662742299	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGl5lZB"
+Gtk-Message: 15:22:22.340: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684662743413	Marionette	INFO	Marionette enabled
+1684662743418	Marionette	INFO	Listening on port 34021
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 34021
+WebDriver BiDi listening on ws://127.0.0.1:34445
+1684662743570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:34445/devtools/browser/ef72600c-c899-46c3-b47c-a17f1042d6fb
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/dp/B07YX6SSPT/?_encoding=UTF8&pd_rd_w=dGLA6&content-id=amzn1.sym.04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_p=04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_r=AH9DBC9QQAVPJQ15ZC2W&pd_rd_wg=AfJYr&pd_rd_r=1ac5a20a-75c9-4c28-a022-067156b42fed&ref_=pd_gw_cr_wsim line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/product-reviews/B07YX6SSPT/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+[Child 67232, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67232, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67232, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67232, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67232, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67232, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67232, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67232, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684662771061	Marionette	INFO	Stopped listening on port 34021
+1684662772467	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1684662779016	geckodriver	INFO	Listening on 127.0.0.1:48481
+1684662779373	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "48419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9getEt"
+Gtk-Message: 15:22:59.410: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684662780397	Marionette	INFO	Marionette enabled
+1684662780403	Marionette	INFO	Listening on port 43181
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43181
+WebDriver BiDi listening on ws://127.0.0.1:48419
+1684662780565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:48419/devtools/browser/af6db71a-26f1-4f1f-a163-2f5e60282e4d
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/dp/B07YX6SSPT/?_encoding=UTF8&pd_rd_w=dGLA6&content-id=amzn1.sym.04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_p=04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_r=AH9DBC9QQAVPJQ15ZC2W&pd_rd_wg=AfJYr&pd_rd_r=1ac5a20a-75c9-4c28-a022-067156b42fed&ref_=pd_gw_cr_wsim line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/product-reviews/B07YX6SSPT/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1684662918797	geckodriver	INFO	Listening on 127.0.0.1:38261
+1684662919186	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "57787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyeeSB1"
+Gtk-Message: 15:25:19.223: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684662920216	Marionette	INFO	Marionette enabled
+1684662920221	Marionette	INFO	Listening on port 44935
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44935
+WebDriver BiDi listening on ws://127.0.0.1:57787
+1684662920394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57787/devtools/browser/eab3281b-226c-48c2-a54f-ac92a3f269f6
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/dp/B07YX6SSPT/?_encoding=UTF8&pd_rd_w=dGLA6&content-id=amzn1.sym.04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_p=04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_r=AH9DBC9QQAVPJQ15ZC2W&pd_rd_wg=AfJYr&pd_rd_r=1ac5a20a-75c9-4c28-a022-067156b42fed&ref_=pd_gw_cr_wsim line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/product-reviews/B07YX6SSPT/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+[Child 68557, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 68557, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 68557, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 68557, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 68557, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 68557, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 68557, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 68557, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684663017865	Marionette	INFO	Stopped listening on port 44935
+[Child 63848, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63848, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63848, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63848, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63848, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63848, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63848, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63848, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684663021189	Marionette	INFO	Stopped listening on port 42339
+[Child 67827, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67827, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67827, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67827, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67827, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67827, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67827, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 67827, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684663027977	Marionette	INFO	Stopped listening on port 43181
+[Child 63182, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63182, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63182, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63182, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63182, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63182, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63182, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 63182, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1684663030964	Marionette	INFO	Stopped listening on port 46493
+1684663036872	geckodriver	INFO	Listening on 127.0.0.1:53537
+1684663037242	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9LGjtd"
+Gtk-Message: 15:27:17.276: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1684663038268	Marionette	INFO	Marionette enabled
+1684663038272	Marionette	INFO	Listening on port 43397
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43397
+WebDriver BiDi listening on ws://127.0.0.1:33803
+1684663038470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:33803/devtools/browser/640334c8-9aee-4519-9ca7-371df7497c5b
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/dp/B07YX6SSPT/?_encoding=UTF8&pd_rd_w=dGLA6&content-id=amzn1.sym.04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_p=04eccdc9-b3cd-4cc1-973f-6fc2a5bdb1a2&pf_rd_r=AH9DBC9QQAVPJQ15ZC2W&pd_rd_wg=AfJYr&pd_rd_r=1ac5a20a-75c9-4c28-a022-067156b42fed&ref_=pd_gw_cr_wsim line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.amazon.in/Electronic-Spices-COMBO-Rosin-Soldering/product-reviews/B07YX6SSPT/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews line 7 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1684663066087	Marionette	INFO	Stopped listening on port 43397
+[Child 69417, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 69417, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 69417, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 69417, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 69417, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 69417, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 69417, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 69417, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /build/firefox/parts/firefox/build/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
