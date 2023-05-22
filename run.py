@@ -11,9 +11,10 @@ from selenium.common.exceptions import NoSuchElementException
 from tkinter import Tk, Label, Entry, Button, messagebox
 import tkinter as tk
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+from tkinter import ttk  # Import from ttk module
 
 
-def fetch_reviews_amazon(url, label_text):
+def fetch_reviews_amazon(url, label_text, max_reviews):
     # Set up Firefox WebDriver
     options = Options()
     options.headless = True  # Run Firefox in headless mode
@@ -32,7 +33,7 @@ def fetch_reviews_amazon(url, label_text):
     review_count = 0  # Initialize the review count
 
     # Fetch all review elements
-    while len(reviews) < 100:
+    while len(reviews) < max_reviews:
         # Fetch all review elements on the current page
         review_elements = driver.find_elements(
             By.CSS_SELECTOR, "[data-hook='review-body']"
@@ -47,7 +48,7 @@ def fetch_reviews_amazon(url, label_text):
             window.update_idletasks()  # Update the label immediately
 
             # Break the loop if the maximum number of reviews has been reached
-            if len(reviews) >= 100:
+            if len(reviews) >= max_reviews:
                 break
 
         # Check if there is a next page button
@@ -55,7 +56,7 @@ def fetch_reviews_amazon(url, label_text):
             next_page_button = driver.find_element(By.LINK_TEXT, "Next page")
             # Click on the next page button if it exists
             next_page_button.click()
-            time.sleep(2)
+            time.sleep(3)
         except NoSuchElementException:
             break
 
@@ -70,10 +71,11 @@ def fetch_reviews_amazon(url, label_text):
 def analyze_reviews():
     # Get the entered product link from the entry widget
     product_url = entry_link.get()
+    max_reviews = int(max_reviews_combobox.get())
 
     label_text = Label(window, text="fetching reviews")
     label_text.grid(row=3, column=1, padx=10, pady=5)
-    df = fetch_reviews_amazon(product_url, label_text)
+    df = fetch_reviews_amazon(product_url, label_text, max_reviews)
 
     with open("classifier.pickle", "rb") as file:
         classifier = pickle.load(file)
@@ -118,15 +120,31 @@ window = Tk()
 window.geometry("700x600")
 window.title("Amazon Product Reviews Analysis")
 
+# Add heading label
+heading_label = Label(
+    window, text="Review Sentiment Analysis", font=("Arial", 16, "bold")
+)
+heading_label.grid(row=0, column=0, columnspan=2, padx=10, pady=10)
+
 # Create a label and entry widget for the product link
 label_link = Label(window, text="Enter Amazon Product Link:")
-label_link.grid(row=0, column=0, padx=10, pady=5)
+label_link.grid(row=1, column=0, padx=10, pady=5)
 entry_link = Entry(window, width=50)
-entry_link.grid(row=0, column=1, padx=10, pady=5)
+entry_link.grid(row=2, column=0, padx=10, pady=5)
+
+
+max_reviews_label = Label(window, text="Select Maximum Reviews:")
+max_reviews_label.grid(row=1, column=1, padx=10, pady=5)
+max_reviews_combobox = ttk.Combobox(
+    window, values=[50, 100, 200, 500, 1000], state="readonly"
+)
+max_reviews_combobox.current(0)  # Set the default selection
+max_reviews_combobox.grid(row=2, column=1, padx=10, pady=5)
+
 
 # Create a button to trigger the analysis
 button_analyze = Button(window, text="Analyze Reviews", command=analyze_reviews)
-button_analyze.grid(row=1, column=0, columnspan=2, padx=10, pady=5)
+button_analyze.grid(row=3, column=0, columnspan=2, padx=10, pady=5)
 
 # Run the GUI event loop
 window.mainloop()
